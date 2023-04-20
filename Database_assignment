@@ -1,4 +1,4 @@
-what is database and why need it
+ques1=>  what is database and why need it
 A database is a structured collection of data that is organized and stored in a way that allows efficient retrieval and manipulation of that data. 
 It can be thought of as a system for organizing, storing, and managing information.
 => NEED OF DB
@@ -9,7 +9,7 @@ sales data, financial records, and more.
 
 ##################################################################
 
-File base storage and challenges
+QUES 2=> File base storage and challenges
 
 File-based storage refers to the traditional method of storing data in individual files, each containing its own set of data.
 In this method, files are stored on the file system of a computer, usually organized in folders and subfolders.
@@ -28,7 +28,7 @@ In this method, files are stored on the file system of a computer, usually organ
 
 ##################################################################
 
-what is dbms and need
+QUES-3 =>  what is dbms and its need
 
 A Database Management System (DBMS) is a software system that allows users to create, manage, and access a database. A DBMS provides a way to store, organize, and retrieve data in a structured and efficient manner. It serves as an interface between the user and the database, allowing users to perform a variety of tasks such as creating and modifying data, searching for specific data, generating reports, and more.
 
