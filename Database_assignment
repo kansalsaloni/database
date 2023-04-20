@@ -33,3 +33,64 @@ QUES-3 =>  what is dbms and its need
 A Database Management System (DBMS) is a software system that allows users to create, manage, and access a database. A DBMS provides a way to store, organize, and retrieve data in a structured and efficient manner. It serves as an interface between the user and the database, allowing users to perform a variety of tasks such as creating and modifying data, searching for specific data, generating reports, and more.
 
 DBMS is needed because it provides a centralized and efficient way to store and manage large amounts of data. With a DBMS, data can be easily organized and retrieved, and complex queries can be performed on the data to extract valuable insights. DBMS can also enforce data consistency and ensure that data is accurate and up-to-date. It provides security features to protect the data from unauthorized access and data loss.
+
+##################################################################
+
+QUES-4 =>   what is database and why need it
+
+A database is a structured collection of data that is organized and stored in a way that allows efficient retrieval and manipulation of that data.
+It can be thought of as an electronic filing system for organizing, storing, and managing information.
+
+NEEDS
+------
+
+Databases are important because they provide a centralized and efficient way to store, retrieve, and manage large amounts of data.
+They allow for easy organization and retrieval of data, as well as the ability to perform complex queries and analysis.
+Databases are used in a variety of applications, including business, finance, healthcare and many others, to store and manage data such as customer information,
+sales data, financial records, and more. 
+
+##################################################################
+
+QUES-5 =>   5 challenges of file based storage trackled by dbms
+
+1 Data redundancy: In file-based storage, data is often duplicated across multiple files, which can lead to data inconsistency and errors.
+DBMS tackles this challenge by ensuring that data is stored in a centralized location, and data redundancy is minimized through normalization and data integrity rules.
+
+2 Limited search and retrieval capabilities: With file-based storage, finding and retrieving specific data can be time-consuming and inefficient, as files must be manually searched and opened to locate the required information.
+DBMS provides efficient search and retrieval capabilities through advanced querying and indexing techniques, which allow users to quickly locate the data they need.
+
+3 Lack of data consistency: Since there is no centralized system to manage data in file-based storage, there is a higher risk of data inconsistencies and errors.
+DBMS enforces data consistency through data integrity rules and transaction management, which ensures that data is accurate and up-to-date.
+
+4 Security risks: File-based storage can be less secure than database-based storage, as files can be easily accessed and modified by unauthorized users.
+DBMS provides robust security features to protect the data from unauthorized access and data loss, including authentication and authorization controls, encryption, and backup and recovery mechanisms
+5 Scalability issues: As the amount of data grows, file-based storage can become less efficient and harder to manage, requiring more storage space and increased maintenance efforts.
+
+##################################################################
+
+QUES-6 =>   different type of classification 
+
+1 Hierarchical classification: This type of classification arranges objects or concepts into a hierarchy or tree-like structure based on their attributes.
+The objects are grouped into larger and smaller categories based on similarities and differences.
+
+2 Object-oriented data model: In this type of data model, data is represented as objects with properties and methods, similar to how objects are represented in object-oriented programming.
+
+3 Relational data model: A relational data model represents data as a set of tables with columns and rows, and it uses relationships between these tables to represent the relationships between the data.
+
+
+
+##################################################################
+
+QUES-7 =>  signification of data modelling and its type
+
+Data modeling is the process of creating a visual representation of the data and its relationships in a database.
+It involves identifying the entities, attributes, and relationships that exist in the data and creating a schema or diagram that represents these relationships.
+Data modeling is significant because it helps to ensure that the database is organized, efficient, and scalable. It also helps to ensure that the data is accurate, consistent, and reliable.
+
+Conceptual data model: This type of data model represents the high-level concepts and relationships between the data in a database, without getting
+into the technical details of how the data will be stored or implemented.
+
+Logical data model: A logical data model is a more detailed representation of the data and its relationships, and it includes specific details about how the data will be organized and stored in a database.
+Object-oriented data model: In this type of data model, data is represented as objects with properties and methods, similar to how objects are represented in object-oriented programming.
+
+Relational data model: A relational data model represents data as a set of tables with columns and rows, and it uses relationships between these tables to represent the relationships between the data.
